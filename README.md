@@ -1,0 +1,1 @@
+使用了javaweb技术，涉及到如单例模式、thymeleaf、Spring简易框架、SpringMVC简易三层架构、事务管理。用java基础技术搭建以上所有技术。
